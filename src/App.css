@@ -1,0 +1,96 @@
+* {
+    text-decoration: none;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    transition: all 0.5s;
+}
+
+body {
+    background-color: black;
+}
+
+main ul {
+    display: grid;
+    grid-template-rows: auto auto auto auto auto;
+    text-align: center;
+    width: 70px;
+    height: 600px;
+    align-items: center;
+    margin: auto;
+    justify-content: space-evenly;
+    border: 1px solid gray;
+    border-radius: 50px;
+    position: fixed;
+    top: 0;
+    left: 7px;
+    margin-top: 25px;
+}
+
+main ul li {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    width: 50px;
+}
+
+main ul li:hover {
+    background-color: rgb(82, 82, 82);
+    border-radius: 25px;
+
+}
+
+.active {
+    width: 25px;
+    border-radius: 50px;
+    background-color: rgb(63, 63, 63);
+    border: 1px solid gray;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    transition: all 1s; 
+}
+
+main ul li a {
+    font-size: 25px;
+    color: gold;
+}
+
+.AllDiv {
+    border: 1px solid gray;
+    color: white;
+    width: 15%;
+    margin: auto;
+    text-align: center;
+    margin-top: 30px;
+    transition: all 0.5s;
+}
+
+.AllDiv h4:first-child {
+    margin-top: 7px;
+}
+
+.AllDiv:hover {
+    border-radius: 50px;
+    background-color: rgb(63, 63, 63);
+}
+
+.AllDiv h4:first-child {
+    color: red;
+}
+
+.AllDiv h4:nth-child(2) {
+    color: green;
+}
+
+.AllDiv h4:nth-child(3) {
+    color: gold;
+}
+
+.AllDiv img {
+    width: 80px;
+    height: 70px;
+}

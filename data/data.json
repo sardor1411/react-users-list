@@ -1,0 +1,167 @@
+{
+    "Kuchuk": [
+        {
+            "id": 1,
+            "name": "Kuchuk1",
+            "age": 1,
+            "turi": "buldok1",
+            "img": "https://avatars.mds.yandex.net/i?id=3ae6647f1515820747febcc6907c681c1e83bc22-12496425-images-thumbs&n=13"
+        },
+        {
+            "id": 2,
+            "name": "Kuchuk2",
+            "age": 2,
+            "turi": "buldok2",
+            "img": "https://avatars.mds.yandex.net/i?id=3ae6647f1515820747febcc6907c681c1e83bc22-12496425-images-thumbs&n=13"
+        },
+        {
+            "id": 3,
+            "name": "Kuchuk3",
+            "age": 3,
+            "turi": "buldok3",
+            "img": "https://avatars.mds.yandex.net/i?id=3ae6647f1515820747febcc6907c681c1e83bc22-12496425-images-thumbs&n=13"
+        },
+        {
+            "id": 4,
+            "name": "Kuchuk4",
+            "age": 4,
+            "turi": "buldok4",
+            "img": "https://avatars.mds.yandex.net/i?id=3ae6647f1515820747febcc6907c681c1e83bc22-12496425-images-thumbs&n=13"
+        },
+        {
+            "id": 5,
+            "name": "Kuchuk5",
+            "age": 5,
+            "turi": "buldok5",
+            "img": "https://avatars.mds.yandex.net/i?id=3ae6647f1515820747febcc6907c681c1e83bc22-12496425-images-thumbs&n=13"
+        }
+    ],
+    "Mushuk": [
+        {
+            "id": 1,
+            "name": "Kisa1",
+            "age": 10,
+            "rangi": "sariq"
+        },
+        {
+            "id": 2,
+            "name": "Kisa1",
+            "age": 100,
+            "rangi": "sariq"
+        },
+        {
+            "id": 3,
+            "name": "Kisa1",
+            "age": 200,
+            "rangi": "sariq"
+        },
+        {
+            "id": 4,
+            "name": "Kisa1",
+            "age": 300,
+            "rangi": "sariq"
+        },
+        {
+            "id": 5,
+            "name": "Kisa1",
+            "age": 400,
+            "rangi": "sariq"
+        }
+    ],
+    "Qoy": [
+        {
+            "id": 1,
+            "name": "Qoy1",
+            "age": 10,
+            "kg": "sariq"
+        },
+        {
+            "id": 2,
+            "name": "Qoy2",
+            "age": 20,
+            "kg": "1"
+        },
+        {
+            "id": 3,
+            "name": "Qoy2",
+            "age": 30,
+            "kg": "2"
+        },
+        {
+            "id": 4,
+            "name": "Qoy2",
+            "age": 40,
+            "kg": "3"
+        },
+        {
+            "id": 5,
+            "name": "Qoy3",
+            "age": 50,
+            "kg": "4"
+        }
+    ],
+    "Mol": [
+        {
+            "id": 1,
+            "name": "mol1",
+            "age": 0,
+            "kg": 50
+        },
+        {
+            "id": 2,
+            "name": "mol2",
+            "age": 1,
+            "kg": 60
+        },
+        {
+            "id": 3,
+            "name": "mol3",
+            "age": 2,
+            "kg": 70
+        },
+        {
+            "id": 4,
+            "name": "mol4",
+            "age": 3,
+            "kg": 80
+        },
+        {
+            "id": 5,
+            "name": "mol5",
+            "age": 4,
+            "kg": 90
+        }
+    ],
+    "Odam": [
+            {
+                "id": 1,
+                "name": "Sardor",
+                "age": 17,
+                "tili": "O'zbek"
+            },
+            {
+                "id": 2,
+                "name": "Bobomurod",
+                "age": 15,
+                "tili": "O'zbek"
+            },
+            {
+                "id": 3,
+                "name": "Javohir",
+                "age": 14,
+                "tili": "O'zbek"
+            },
+            {
+                "id": 4,
+                "name": "Islom",
+                "age": 11,
+                "tili": "O'zbek"
+            },
+            {
+                "id": 5,
+                "name": "Shag'zod",
+                "age": 19,
+                "tili": "O'zbek"
+            }
+        ]
+}
